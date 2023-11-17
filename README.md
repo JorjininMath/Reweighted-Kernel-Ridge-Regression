@@ -18,4 +18,4 @@ This repo contains the code and results for the RW-KRR with noise variance weigh
 
 * Compare simple and stringent cases
    * We want to obtain that strigent case is better than simple one
-   * Let $m$ increase, keep $\lambda$ and let it change, and see results
+   * Let $m$ increase, keep $\lambda$ / let it change, and see results
